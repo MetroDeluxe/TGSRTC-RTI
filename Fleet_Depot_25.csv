@@ -1,0 +1,26 @@
+Name,Code,Division,Region,Zone,Super Luxury,Vajra,Semi Low Floor Metro Express,Metro Express,Metro Deluxe,City Ordinary,Suburban,Mofussil,Pushpak_Old,Pushpak_New,Green Metro Luxury,Green Metro Express,Green City Ordinary,Hired Metro Express ,Hired City Ordinary,Hired Suburban,Hired Mofussil,Hired Pallevelugu,Own Buses,Hired Buses,Total Buses,x,y
+Barkatpura,BKP,Charminar,Hyderabad,Greater Hyderabad,0,0,13,8,20,25,42,0,0,0,0,0,0,0,0,0,0,0,108,0,108,78.50109,17.39245
+Falaknuma,FM,Charminar,Hyderabad,Greater Hyderabad,0,0,11,10,8,46,12,12,0,0,0,0,0,0,0,0,5,0,99,5,104,78.46712,17.33706
+Farooqnagar,FQNR,Charminar,Hyderabad,Greater Hyderabad,0,0,40,3,10,39,6,0,0,0,0,0,0,0,0,0,0,0,98,0,98,78.4695,17.32877
+Kacheguda,KCG,Charminar,Hyderabad,Greater Hyderabad,2,0,5,32,10,70,5,0,0,0,0,0,0,0,0,0,1,0,124,1,125,78.49887,17.38687
+Mehedipatnam,MP,Charminar,Hyderabad,Greater Hyderabad,0,0,63,5,16,20,19,3,0,0,0,0,0,8,0,11,6,1,126,26,152,78.44096,17.3922
+Musheerabad,MSRD,Charminar,Hyderabad,Greater Hyderabad,0,0,76,0,18,29,0,0,0,0,0,0,0,0,0,0,0,0,123,0,123,78.50394,17.40788
+Rajendranagar,RJNR,Charminar,Hyderabad,Greater Hyderabad,0,0,29,0,15,61,6,7,0,0,0,0,0,2,1,8,4,0,118,15,133,78.40876,17.33476
+Bandlaguda,BDG,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,24,6,5,32,24,0,0,0,0,0,0,0,0,5,0,0,91,5,96,78.58897,17.36533
+Dilsukhnagar,DSNR,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,21,3,17,17,23,0,0,0,0,0,0,0,3,0,27,0,81,30,111,78.52544,17.37009
+Hayathnagar 1,HYT1,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,0,17,10,0,56,1,0,0,0,0,0,1,0,19,5,0,84,25,109,78.59345,17.32628
+Hayathnagar 2,HYT2,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,0,0,6,9,9,0,0,0,0,77,0,0,3,11,0,0,24,91,115,78.59429,17.32486
+Ibrahimpatnam,IBP,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,0,12,10,0,16,48,0,0,0,0,0,6,0,35,20,0,86,61,147,78.64856,17.18677
+MIDHANI,MDN,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,34,0,10,30,14,4,0,0,0,0,0,0,0,2,3,0,92,5,97,78.50376,17.34003
+Maheshwaram,MHRM,Hayathnagar,Hyderabad,Greater Hyderabad,0,0,0,0,0,0,8,51,0,0,0,0,0,0,0,2,10,0,59,12,71,78.41516,17.13502
+HCU,HCU,Kukatpally,Secunderabad,Greater Hyderabad,0,8,0,4,5,0,21,2,0,0,0,17,72,0,0,0,0,0,40,89,129,78.3301,17.46678
+Jeedimetla,JDM,Kukatpally,Secunderabad,Greater Hyderabad,5,0,0,48,9,26,47,3,0,0,0,0,0,0,0,0,0,0,138,0,138,78.43982,17.52781
+Kukatpally,KP,Kukatpally,Secunderabad,Greater Hyderabad,0,0,0,37,11,87,0,11,0,0,0,0,0,1,0,0,0,0,146,1,147,78.4259,17.47338
+Medchal,MDCL,Kukatpally,Secunderabad,Greater Hyderabad,5,0,0,46,14,0,49,14,0,0,0,0,0,0,0,1,7,0,128,8,136,78.48691,17.63379
+Miyapur 2,MYP2,Kukatpally,Secunderabad,Greater Hyderabad,2,0,99,0,13,0,0,0,16,8,23,28,0,0,0,2,0,0,114,77,191,78.36035,17.51244
+Chengicherla,CGCL,Secunderabad,Secunderabad,Greater Hyderabad,0,0,0,31,10,37,42,2,0,0,0,0,0,0,6,2,0,0,122,8,130,78.61001,17.41925
+Cantonment,CNT,Secunderabad,Secunderabad,Greater Hyderabad,0,0,10,23,20,59,0,1,24,5,14,20,3,2,0,0,2,0,113,70,183,78.49848,17.44675
+Hakeempet,HPT,Secunderabad,Secunderabad,Greater Hyderabad,0,0,9,18,0,48,22,5,0,0,0,0,0,0,0,12,5,0,102,17,119,78.53548,17.54586
+Kushaiguda,KG,Secunderabad,Secunderabad,Greater Hyderabad,7,0,0,38,12,68,14,5,0,0,0,0,0,0,0,7,3,0,144,10,154,78.5659,17.46812
+Ranigunj,RNG,Secunderabad,Secunderabad,Greater Hyderabad,0,0,0,49,10,63,0,0,0,0,0,25,0,0,0,0,0,0,122,25,147,78.48586,17.4326
+Uppal,UPL,Secunderabad,Secunderabad,Greater Hyderabad,2,0,17,38,16,33,16,5,0,0,0,0,0,0,0,7,3,0,127,10,137,78.58956,17.40453
